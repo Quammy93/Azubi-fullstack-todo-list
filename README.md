@@ -1,6 +1,3 @@
-# Azubi-fullstack-todo-list
-This repository hosts a full-stack Todo List application designed to allow users to create, manage, and organize their tasks efficiently. The application features a React-based frontend and a Node.js backend, utilizing MongoDB for data persistence.
-
 # 📝 Fullstack Todo List Application - Dockerized
 
 This is a containerized fullstack Todo List app using React (Frontend), Node.js/Express (Backend), and MongoDB (Database). This guide includes setup, network/security notes, troubleshooting, and test scripts.
