@@ -132,7 +132,6 @@ chmod +x test-containers.sh
   * Your email address
   * Link to your public GitHub repo
 
-✅ Make sure containers are running and app is accessible during your interview!
 
 ---
 
